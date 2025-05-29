@@ -1,7 +1,5 @@
 # Movie Review Application | Legacy Project
 
-### 🚧 WORK IN PROGRESS 🚧 
-
 ## 📽️ Overview
 
 This project is a **Movie Review Application** built using TypeScript and Python. The project includes independent Angular and React client-side folders, with a flexible backend using Express (TypeScript) and Django (Python):
@@ -12,7 +10,6 @@ This project is a **Movie Review Application** built using TypeScript and Python
 
 Users can browse movies, read and post reviews, and rate films. The goal is to create a platform where movie enthusiasts can share their thoughts and engage with the community.
 
-
 ## 🛠️ Technologies Used
 
 - **React** – Dynamic and responsive frontend
@@ -22,7 +19,7 @@ Users can browse movies, read and post reviews, and rate films. The goal is to c
 
 ---
 
-## 📋 Features (Planned)
+## 📋 Features 
 
 - User Authentication
 - Browse movie collection
@@ -34,7 +31,7 @@ Users can browse movies, read and post reviews, and rate films. The goal is to c
 
 ---
 
-## 🏗️ Installation (Development)
+## 🏗️ Installation
 
 ### Prerequisites
 
@@ -67,33 +64,6 @@ Users can browse movies, read and post reviews, and rate films. The goal is to c
    ```
 
    The backend will run on `http://localhost:3000`
-
----
-
-## 📂 Project Structure
-
-```
-/movie-review-app
-├── client (React Frontend)
-│   ├── public
-│   └── src
-│       ├── assets
-│       ├── components
-│       ├── contexts
-|       ├── interfaces
-|       ├── pages
-|       ├── services
-|       ├── tests
-|       ├── main.tsx
-│       └── index.css
-├── server (Node/Express Backend)
-│   └── src
-│       ├── controllers
-│       ├── models
-│       └── routes
-│
-└── README.md
-```
 
 ---
 
