@@ -1,4 +1,4 @@
-# Movie Review Application | Legacy Project
+# Multi-Stack Movie Review Application | Legacy Project
 
 ## 📽️ Overview
 
