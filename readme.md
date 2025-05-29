@@ -1,4 +1,4 @@
-# Movie Review Application | Solo Project | Legacy Project
+# Movie Review Application | Legacy Project
 
 ### 🚧 WORK IN PROGRESS 🚧 
 
