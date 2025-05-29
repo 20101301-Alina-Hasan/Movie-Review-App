@@ -2,7 +2,7 @@
 
 ## 📽️ Overview
 
-This project is a **Movie Review Application** built using TypeScript and Python. The project includes independent Angular and React client-side folders, with a flexible backend using Express (TypeScript) and Django (Python):
+This project is a **Multi-Stack Movie Review Application** built using TypeScript and Python. The project includes independent Angular and React client-side folders, with a flexible backend using Express (TypeScript) and Django (Python):
 
 - **Frontend**: React, Angular
 - **Backend**: Express, Django
