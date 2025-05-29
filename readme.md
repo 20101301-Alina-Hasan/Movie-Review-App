@@ -75,4 +75,8 @@ Contributions are welcome! If you have suggestions or want to collaborate, feel 
 
 ## 📧 Contact
 
-For questions or inquiries, reach out via [asif93@student.sust.edu](mailto:asif93@student.sust.edu).
+For questions or inquiries, reach out via [asif93@student.sust.edu](mailto:asif93@student.sust.edu) or [alina.hasan@g.bracu.ac.bd](mailto:alina.hasan@g.bracu.ac.bd).
+
+---
+
+Feel free to ⭐ the repo if you find it useful.
